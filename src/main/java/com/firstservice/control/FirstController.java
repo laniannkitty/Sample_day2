@@ -1,4 +1,3 @@
---testing
 package com.firstservice.control;
 
 import org.springframework.web.bind.annotation.GetMapping;
